@@ -43,7 +43,7 @@ Then start the backend server:
 
 npm start
 
-http://localhost:4000
+http://localhost:4000/api/products
 
 Step 3: Setup Frontend
 cd frontend
