@@ -4,7 +4,7 @@ import "./ProductList.css";
 
 const ProductList = () => {
   const { data: products, loading, error } = useFetch(
-    "localhost:3000"
+    "http://localhost:4000/api/products"
   );
 
   const [showLoading, setShowLoading] = useState(true);

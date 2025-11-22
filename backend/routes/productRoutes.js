@@ -12,7 +12,7 @@ router.get("/", async (req, res) => {
   } catch (err) {
     res.status(500).json({ message: "Server Error" });
   }
-  // console.log("running");
+  console.log("running");
   // res.send("helloe0");
 });
 
