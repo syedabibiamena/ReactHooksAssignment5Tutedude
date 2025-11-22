@@ -4,7 +4,7 @@ import "./ProductList.css";
 
 const ProductList = () => {
   const { data: products, loading, error } = useFetch(
-    "http://localhost:4000/api/products"
+    "https://reacthooksassignment5tutedude.onrender.com/api/products"
   );
 
   const [showLoading, setShowLoading] = useState(true);
