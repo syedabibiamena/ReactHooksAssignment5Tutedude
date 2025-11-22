@@ -8,7 +8,7 @@ The goal of this assignment was to understand how the frontend and backend work 
 
 ## Live Project Links
 
-- **Frontend (Netlify):** [https://reacthookstesttt.netlify.app/](https://reacthookstesttt.netlify.app/)
+- **Frontend (Netlify):** https://dreamy-daifuku-0d6dd6.netlify.app/
 - **Backend (Render)**
 
 ---
